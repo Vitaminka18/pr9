@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pr9</string>
+    <string name="textView">Листопад И.А.Бунин
+Лес, точно терем расписной,
+Лиловый, золотой, багряный,
+Веселой, пестрою стеной
+Стоит над светлою поляной.</string>
+    <string name="qqq">МДК 01.03</string>
+    <string name="qaz">«Лабораторная работа № 9»</string>
+    <string name="q"> «Copyright (C) 2021»</string>
+
+</resources>
